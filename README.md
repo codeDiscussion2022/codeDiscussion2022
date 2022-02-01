@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/codeDiscussion2022/codeDiscussion/blob/main/Images/codeDiscussion.png)
+
 <img align="right"  height="255" src="https://github.com/codeDiscussion2022/codeDiscussion/blob/main/python-2.gif">
 
 ## CODING LANGUAGE PLAYLISTLIST
