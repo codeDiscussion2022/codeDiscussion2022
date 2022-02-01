@@ -2,6 +2,7 @@
 
 <img align="right"  height="255" src="https://github.com/codeDiscussion2022/codeDiscussion/blob/main/python-2.gif">
 
+
 ## CODING LANGUAGE PLAYLISTLIST
 coding language Playlists for computer science students, which including the following main languages:
 
@@ -30,7 +31,7 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 <!-- PYTHON -->
@@ -55,9 +56,15 @@ coding language Playlists for computer science students, which including the fol
 			<td align="center">10 MIN</td>
 		</tr>
 		<!-- CHANGES END -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/gfDE2a7MKjA">Python Tutorial For Beginners In Hindi (With Notes)</a></td>
+			<td align="center">1</td>
+			<td align="center">11:52 HRS</td>
+		</tr>
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 <!-- JAVA -->
@@ -84,7 +91,7 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 <!-- REACT -->
@@ -111,7 +118,7 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 
@@ -139,13 +146,13 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 <!-- PHP -->
 <details>
-	<summary>PHP</summary>
-<h3>PHP PLAYLISTS</h3>
+	<summary>PHP LANGUAGE</summary>
+<h3>PHP LANGUAGE PLAYLISTS</h3>
 <table>
 	<thead>
 		<tr>
@@ -166,7 +173,17 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
+
+
+
+
+
+
+
+
+
+
 
 <!-- WEB DEVELOPMENT -->
 <details>
@@ -192,7 +209,7 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
 
 
 
@@ -220,4 +237,324 @@ coding language Playlists for computer science students, which including the fol
 		<!-- CHANGES END -->
 	</tbody>
 	</table>
-</details>
+</details></BR>
+
+
+
+<!-- C LANGUAGE -->
+<details>
+	<summary>C LANGUAGE</summary>
+<h3>C LANGUAGE PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR">C Language Tutorials In Hindi</a></td>
+			<td align="center">76</td>
+			<td align="center">20 MIN</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+<!-- DJANGO -->
+<details>
+	<summary>DJANGO FRAMEWORK</summary>
+<h3>DJANGO FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9">Python Django Tutorials In Hindi</a></td>
+			<td align="center">102</td>
+			<td align="center">10 MIN</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+<!-- FLASK -->
+<details>
+	<summary>FLASK FRAMEWORK</summary>
+<h3>FLASK FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf">[Hindi] Web Development Using Flask and Python</a></td>
+			<td align="center">25</td>
+			<td align="center">10 MIN</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+
+<!-- MACHINE LEARNING -->
+<details>
+	<summary>MACHINE LEARNING</summary>
+<h3>MACHINE LEARNING PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG">Machine Learning Tutorials For Beginners Using Python In Hindi</a></td>
+			<td align="center">23</td>
+			<td align="center">10 MIN</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+
+<!-- TAILWAND CSS -->
+<details>
+	<summary>TAILWAND CSS</summary>
+<h3>TAILWAND CSS PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O">Tailwind CSS Tutorials in Hindi</a></td>
+			<td align="center">14</td>
+			<td align="center">15 MIN</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+<!-- ANGULAR -->
+<details>
+	<summary>ANGULAR FRAMEWORK</summary>
+<h3>ANGULAR FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/0LhBvp8qpro">
+Angular Tutorial in Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:59 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+<!-- BOOTSTRAP -->
+<details>
+	<summary>BOOTSTRAP FRAMEWORK</summary>
+<h3>BOOTSTRAP FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/008dZPBZtLQ">
+Bootstrap 4 Tutorial For Beginners In Hindi - हिंदी में (2021)</a></td>
+			<td align="center">1</td>
+			<td align="center">1:03 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+<!-- JQUERY -->
+<details>
+	<summary>JQUERY FRAMEWORK</summary>
+<h3>JQUERY FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/YFlx1C8XwR0">
+jQuery Tutorial For Beginners In Hindi - हिंदी में (2021)</a></td>
+			<td align="center">1</td>
+			<td align="center">1:12 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+<!-- CSS -->
+<details>
+	<summary>CSS LANGUAGE</summary>
+<h3>CSS LANGUAGE PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/u5-K_ua9sOw">CSS 3 Tutorial For Beginners: Learn CSS In One Video In Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:38 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+
+
+
+
+
+
+<!-- WORDPRESS -->
+<details>
+	<summary>WORDPRESS FRAMEWORK</summary>
+<h3>WORDPRESS FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/GlLRYml8mCY">
+How To Make a WordPress Website | Wordpress Tutorial for Beginners | Elementor Tutorial In Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">3:12 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+
+
+
+
+
+<!-- MONGODB -->
+<details>
+	<summary>MANGODB</summary>
+<h3>MANGODB PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/oSIv-E60NiU">
+MongoDb Tutorial For Beginners in Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:13 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
