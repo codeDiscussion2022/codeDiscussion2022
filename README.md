@@ -534,8 +534,8 @@ How To Make a WordPress Website | Wordpress Tutorial for Beginners | Elementor T
 
 <!-- MONGODB -->
 <details>
-	<summary>MANGODB</summary>
-<h3>MANGODB PLAYLISTS</h3>
+	<summary>MONGODB</summary>
+<h3>MONGODB PLAYLISTS</h3>
 <table>
 	<thead>
 		<tr>
