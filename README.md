@@ -3,8 +3,8 @@
 <img align="right"  height="255" src="https://github.com/codeDiscussion2022/codeDiscussion/blob/main/python-2.gif">
 
 
-## CODING LANGUAGE PLAYLISTLIST
-coding language Playlists for computer science students, which including the following main languages:
+## FREE PROGRAMMING PLAYLISTS
+Coding playlists for computer science students, which include the following Programming languages:
 
 
 <!-- C++ -->
