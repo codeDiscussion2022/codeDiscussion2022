@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/codeDiscussion2022/codeDiscussion/blob/main/Images/codeDiscussion.png)
+![MasterHead](https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/codeDiscussion.png)
 
 <img align="right"  height="255" src="https://github.com/codeDiscussion2022/codeDiscussion/blob/main/python-2.gif">
 
