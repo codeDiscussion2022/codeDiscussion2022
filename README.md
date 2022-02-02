@@ -6,10 +6,9 @@
 ## FREE PROGRAMMING PLAYLISTS
 Coding playlists for computer science students, which include the following Programming languages:
 
-
 <!-- C++ -->
-<details>
-	<summary>C++</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/c++.png?raw=true">
+	<summary>C++<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/c++.png?raw=true"></summary>
 <h3>C++ PLAYLISTS</h3>
 <table>
 	<thead>
@@ -32,11 +31,11 @@ Coding playlists for computer science students, which include the following Prog
 	</tbody>
 	</table>
 </details></BR>
-
+<br>
 
 <!-- PYTHON -->
-<details>
-	<summary>PYTHON</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/python-icon.svg">
+	<summary>PYTHON<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/python-icon.svg"></summary>
 <h3>PYTHON PLAYLISTS</h3>
 <table>
 	<thead>
@@ -66,10 +65,10 @@ Coding playlists for computer science students, which include the following Prog
 	</table>
 </details></BR>
 
-
+<br>
 <!-- JAVA -->
-<details>
-	<summary>JAVA</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/java-icon.svg">
+	<summary>JAVA<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/java-icon.svg"></summary>
 <h3>JAVA PLAYLISTS</h3>
 <table>
 	<thead>
@@ -93,10 +92,10 @@ Coding playlists for computer science students, which include the following Prog
 	</table>
 </details></BR>
 
-
+<br>
 <!-- REACT -->
-<details>
-	<summary>REACT</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/reactjs-icon.svg">
+	<summary>REACT<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/reactjs-icon.svg"></summary>
 <h3>REACT PLAYLISTS</h3>
 <table>
 	<thead>
@@ -121,10 +120,10 @@ Coding playlists for computer science students, which include the following Prog
 </details></BR>
 
 
-
+<br>
 <!-- JAVASCRIPT -->
-<details>
-	<summary>JAVASCRIPT</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/javascript-icon.svg">
+	<summary>JAVASCRIPT<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/javascript-icon.svg"></summary>
 <h3>JAVASCRIPT PLAYLISTS</h3>
 <table>
 	<thead>
@@ -148,10 +147,10 @@ Coding playlists for computer science students, which include the following Prog
 	</table>
 </details></BR>
 
-
+<br>
 <!-- PHP -->
-<details>
-	<summary>PHP LANGUAGE</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/php-icon.svg">
+	<summary>PHP LANGUAGE<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/php-icon.svg"></summary>
 <h3>PHP LANGUAGE PLAYLISTS</h3>
 <table>
 	<thead>
@@ -176,18 +175,11 @@ Coding playlists for computer science students, which include the following Prog
 </details></BR>
 
 
-
-
-
-
-
-
-
-
+<br>
 
 <!-- WEB DEVELOPMENT -->
-<details>
-	<summary>WEB DEVELOPMENT</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/backgroun5.jpg">
+	<summary>WEB DEVELOPMENT<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/backgroun5.jpg"></summary>
 <h3>WEB DEVELOPMENT PLAYLISTS</h3>
 <table>
 	<thead>
@@ -211,11 +203,11 @@ Coding playlists for computer science students, which include the following Prog
 	</table>
 </details></BR>
 
-
+<br>
 
 <!-- data structure -->
-<details>
-	<summary>DATA STRUCTURE</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/bg.jpg">
+	<summary>DATA STRUCTURE<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/bg.jpg"></summary>
 <h3>DATA STRUCTURE PLAYLISTS</h3>
 <table>
 	<thead>
@@ -240,10 +232,11 @@ Coding playlists for computer science students, which include the following Prog
 </details></BR>
 
 
+<br>
 
 <!-- C LANGUAGE -->
-<details>
-	<summary>C LANGUAGE</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/c.png">
+	<summary>C LANGUAGE<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/c.png"></summary>
 <h3>C LANGUAGE PLAYLISTS</h3>
 <table>
 	<thead>
@@ -266,10 +259,10 @@ Coding playlists for computer science students, which include the following Prog
 	</tbody>
 	</table>
 </details></BR>
-
+<br>
 <!-- DJANGO -->
-<details>
-	<summary>DJANGO FRAMEWORK</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/djangoproject-icon.svg">
+	<summary>DJANGO FRAMEWORK<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/djangoproject-icon.svg"></summary>
 <h3>DJANGO FRAMEWORK PLAYLISTS</h3>
 <table>
 	<thead>
@@ -292,10 +285,10 @@ Coding playlists for computer science students, which include the following Prog
 	</tbody>
 	</table>
 </details></BR>
-
+<br>
 <!-- FLASK -->
-<details>
-	<summary>FLASK FRAMEWORK</summary>
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/pocoo_flask-icon.svg">
+	<summary>FLASK FRAMEWORK<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/pocoo_flask-icon.svg"></summary>
 <h3>FLASK FRAMEWORK PLAYLISTS</h3>
 <table>
 	<thead>
@@ -318,9 +311,151 @@ Coding playlists for computer science students, which include the following Prog
 	</tbody>
 	</table>
 </details></BR>
+<br>
+
+<!-- ANGULAR -->
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/angular-icon.svg">
+	<summary>ANGULAR FRAMEWORK<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/angular-icon.svg"></summary>
+<h3>ANGULAR FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/0LhBvp8qpro">
+Angular Tutorial in Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:59 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+
+<br>
+<!-- CSS -->
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/w3_css-icon.svg">
+	<summary>CSS LANGUAGE<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/w3_css-icon.svg"></summary>
+<h3>CSS LANGUAGE PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/u5-K_ua9sOw">CSS 3 Tutorial For Beginners: Learn CSS In One Video In Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:38 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+<br>
+<!-- BOOTSTRAP -->
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/getbootstrap-icon.svg">
+	<summary>BOOTSTRAP FRAMEWORK<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/getbootstrap-icon.svg"></summary>
+<h3>BOOTSTRAP FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/008dZPBZtLQ">
+Bootstrap 4 Tutorial For Beginners In Hindi - हिंदी में (2021)</a></td>
+			<td align="center">1</td>
+			<td align="center">1:03 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+<br>
+<!-- WORDPRESS -->
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/wordpress-icon.svg">
+	<summary>WORDPRESS FRAMEWORK<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/wordpress-icon.svg"></summary>
+<h3>WORDPRESS FRAMEWORK PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/GlLRYml8mCY">
+How To Make a WordPress Website | Wordpress Tutorial for Beginners | Elementor Tutorial In Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">3:12 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+<br>
 
 
 
+
+
+
+<!-- MONGODB -->
+<details><img align="left"  height="80" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/mongodb-icon.svg">
+	<summary>MONGODB<img align="left"  height="50" src="https://github.com/codeDiscussion2022/codeDiscussion2022/blob/main/img/mongodb-icon.svg"></summary>
+<h3>MONGODB PLAYLISTS</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>DURATION</th>
+		</tr>
+	</thead>
+	<tbody>
+	<!-- CHANGES START -->
+		<tr>
+			<td rowspan=1 align=center>CODE WITH HARRY</td>
+			<td><a href="https://youtu.be/oSIv-E60NiU">
+MongoDb Tutorial For Beginners in Hindi</a></td>
+			<td align="center">1</td>
+			<td align="center">1:13 HRS</td>
+		</tr>
+		<!-- CHANGES END -->
+	</tbody>
+	</table>
+</details></BR>
+
+<br>
 
 <!-- MACHINE LEARNING -->
 <details>
@@ -378,63 +513,10 @@ Coding playlists for computer science students, which include the following Prog
 </details></BR>
 
 
-<!-- ANGULAR -->
-<details>
-	<summary>ANGULAR FRAMEWORK</summary>
-<h3>ANGULAR FRAMEWORK PLAYLISTS</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>DURATION</th>
-		</tr>
-	</thead>
-	<tbody>
-	<!-- CHANGES START -->
-		<tr>
-			<td rowspan=1 align=center>CODE WITH HARRY</td>
-			<td><a href="https://youtu.be/0LhBvp8qpro">
-Angular Tutorial in Hindi</a></td>
-			<td align="center">1</td>
-			<td align="center">1:59 HRS</td>
-		</tr>
-		<!-- CHANGES END -->
-	</tbody>
-	</table>
-</details></BR>
 
 
 
-<!-- BOOTSTRAP -->
-<details>
-	<summary>BOOTSTRAP FRAMEWORK</summary>
-<h3>BOOTSTRAP FRAMEWORK PLAYLISTS</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>DURATION</th>
-		</tr>
-	</thead>
-	<tbody>
-	<!-- CHANGES START -->
-		<tr>
-			<td rowspan=1 align=center>CODE WITH HARRY</td>
-			<td><a href="https://youtu.be/008dZPBZtLQ">
-Bootstrap 4 Tutorial For Beginners In Hindi - हिंदी में (2021)</a></td>
-			<td align="center">1</td>
-			<td align="center">1:03 HRS</td>
-		</tr>
-		<!-- CHANGES END -->
-	</tbody>
-	</table>
-</details></BR>
-
-
+<br>
 
 <!-- JQUERY -->
 <details>
@@ -465,96 +547,9 @@ jQuery Tutorial For Beginners In Hindi - हिंदी में (2021)</a></t
 
 
 
-<!-- CSS -->
-<details>
-	<summary>CSS LANGUAGE</summary>
-<h3>CSS LANGUAGE PLAYLISTS</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>DURATION</th>
-		</tr>
-	</thead>
-	<tbody>
-	<!-- CHANGES START -->
-		<tr>
-			<td rowspan=1 align=center>CODE WITH HARRY</td>
-			<td><a href="https://youtu.be/u5-K_ua9sOw">CSS 3 Tutorial For Beginners: Learn CSS In One Video In Hindi</a></td>
-			<td align="center">1</td>
-			<td align="center">1:38 HRS</td>
-		</tr>
-		<!-- CHANGES END -->
-	</tbody>
-	</table>
-</details></BR>
 
 
 
 
 
 
-
-
-
-<!-- WORDPRESS -->
-<details>
-	<summary>WORDPRESS FRAMEWORK</summary>
-<h3>WORDPRESS FRAMEWORK PLAYLISTS</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>DURATION</th>
-		</tr>
-	</thead>
-	<tbody>
-	<!-- CHANGES START -->
-		<tr>
-			<td rowspan=1 align=center>CODE WITH HARRY</td>
-			<td><a href="https://youtu.be/GlLRYml8mCY">
-How To Make a WordPress Website | Wordpress Tutorial for Beginners | Elementor Tutorial In Hindi</a></td>
-			<td align="center">1</td>
-			<td align="center">3:12 HRS</td>
-		</tr>
-		<!-- CHANGES END -->
-	</tbody>
-	</table>
-</details></BR>
-
-
-
-
-
-
-
-<!-- MONGODB -->
-<details>
-	<summary>MONGODB</summary>
-<h3>MONGODB PLAYLISTS</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>DURATION</th>
-		</tr>
-	</thead>
-	<tbody>
-	<!-- CHANGES START -->
-		<tr>
-			<td rowspan=1 align=center>CODE WITH HARRY</td>
-			<td><a href="https://youtu.be/oSIv-E60NiU">
-MongoDb Tutorial For Beginners in Hindi</a></td>
-			<td align="center">1</td>
-			<td align="center">1:13 HRS</td>
-		</tr>
-		<!-- CHANGES END -->
-	</tbody>
-	</table>
-</details></BR>
