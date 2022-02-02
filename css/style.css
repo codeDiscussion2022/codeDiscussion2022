@@ -219,10 +219,13 @@ div.footerCopy{
   padding-top: 25vh;
   font-weight: bolder;
 }
-.hero-content h1   {
-  font-size: 40px;
+.hero-content h1{
+  color: #ff0202;
+  font-weight: bolder;
+  font-size: 9vh;
   margin: 0;
 }
+
 .hero-content p    {
   font-size: 40px;
   margin-top: 0%;
@@ -280,9 +283,14 @@ div.footerCopy{
 
 
 /* feature boxes */
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 .feature-box   {
-  display: inline-block;
-  width: 18%;
+  width: 28%;
   padding: 20px 30px;
   margin: 0 auto;
 
@@ -408,4 +416,323 @@ div.footerCopy{
 .right form .button-area button:hover {
   color: #FF5732;
   background: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive media query start */
+@media (max-width: 1104px) {
+  .about .about-content .left img {
+      height: 350px;
+      width: 350px;
+  }
+}
+@media (max-width: 991px) {
+  .max-width {
+      padding: 0 50px;
+  }
+}
+@media (max-width: 947px) {
+  .menu-btn {
+      display: block;
+      z-index: 999;
+  }
+  .menu-btn i.active:before {
+      content: "\f00d";
+  }
+  .navbar .menu {
+      position: fixed;
+      height: 100vh;
+      width: 100%;
+      left: -100%;
+      top: 0;
+      background: #000000;
+      text-align: center;
+      padding-top: 80px;
+      transition: all 0.3s ease;
+      z-index: 45000;
+  }
+  .navbar .menu.active {
+      left: 0;
+  }
+  .navbar .menu li {
+      display: block;
+  }
+  .hero-content .flexdiv  a {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: #FFF;
+    border: 3px solid #FFF;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    width: 20vw;
+    margin: 5px;
+  }
+  .navbar .menu li a {
+      display: inline-block;
+      margin: 20px 0;
+      font-size: 25px;
+  }
+  .home .home-content .text-2 {
+      font-size: 70px;
+  }
+  .home .home-content .text-3 {
+      font-size: 35px;
+  }
+  .home .home-content a {
+      font-size: 23px;
+      padding: 10px 30px;
+  }
+  .max-width {
+      max-width: 930px;
+  }
+  .about .about-content .column {
+      width: 100%;
+  }
+  .about .about-content .left {
+      display: flex;
+      justify-content: center;
+      margin: 0 auto 60px;
+  }
+  .about .about-content .right {
+      flex: 100%;
+  }
+  .services .serv-content .card {
+      width: calc(50% - 10px);
+      margin-bottom: 20px;
+  }
+  .skills .skills-content .column,
+  .contact .contact-content .column {
+      width: 100%;
+      margin-bottom: 35px;
+  }
+  .services .icon-box{
+    width: 40%
+}
+.services .icon-box h4{
+    font-size: 3vh;
+}
+.home .value .op input[type="submit"]{
+  width: 100px;
+}
+}
+@media (max-width: 690px) {
+  .max-width {
+      padding: 0 23px;
+  }
+
+  .hero-content h1   {
+    font-size: 20px;
+    margin: 0;
+  }
+  .hero-content p    {
+    font-size: 20px;
+    margin-top: 0%;
+  }
+.hero-content h1{
+  color: #ff0202;
+  font-weight: bolder;
+  font-size: 5vh;
+}
+
+  .hero-content .flexdiv  a {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    color: #FFF;
+    border: 3px solid #FFF;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 18px;
+    width: 20vw;
+    margin: 5px;
+  }
+
+
+  .home .home-content .text-2 {
+      font-size: 60px;
+  }
+  .home .home-content .text-3 {
+      font-size: 32px;
+  }
+  .home .home-content a {
+      font-size: 20px;
+  }
+  .services .serv-content .card {
+      width: 100%;
+  }
+  .services .row .icon-box{
+    width: 40vw;
+
+}
+.services .icon-box h4{
+    font-weight: 1800;
+    font-size: 5vh;
+    margin: 5% auto;
+    
+}
+.home  input{
+      margin:auto;
+  }
+  .skills .skills-content img{
+     width: 90vw;}
+     .services .icon-box h4 a{
+  font-weight: 4700;
+  margin-bottom: 1px;
+  font-size: 15px;
+  
+}
+.home .value .op input[type="submit"]{
+  width: 100px;
+}
+}
+@media (max-width: 500px) {
+  .home .home-content .text-2 {
+      font-size: 50px;
+  }
+  .home .home-content .text-3 {
+      font-size: 27px;
+  }
+  .about .about-content .right .text,
+  .skills .skills-content .left .text {
+      font-size: 19px;
+  }
+  .contact .right form .fields {
+      flex-direction: column;
+  }
+  .contact .right form .name,
+  .contact .right form .email {
+      margin: 0;
+  }
+  .right form .error-box {
+      width: 150px;
+  }
+  .scroll-up-btn {
+      right: 15px;
+      bottom: 15px;
+      height: 38px;
+      width: 35px;
+      font-size: 23px;
+      line-height: 38px;
+  }
+   .services .row .icon-box{
+    width: 40vw;
+}
+.services .icon-box h4{
+    font-weight: 1800;
+    font-size: 5vh;
+    margin: 5% auto;
+}
+.home{
+      width:100vw;
+  }
+  .home  input{
+      margin:auto;
+  }
+  .home .value .op input[type="submit"]{
+  width: 100px;
+}
+  .skills .skills-content img{
+   width: 90vw;
+   margin: auto;
+  }
+  .services .icon-box h4 a{
+  font-weight: 4700;
+  margin-bottom: 1px;
+  font-size: 15px;
+}
+  }
+.container {
+  max-height: 100vh;
+  max-width: 100vw;
+  margin: auto;
+  /* background-color: #78FFF1; */
+  color: white;
+  padding: 1.5%;
+}
+.value form{
+margin: auto;
+margin-top: 4vh;
+margin-bottom:5vh ;
+}
+
+
+
+.value input {
+  height: 5vh;
+  width: 39%;
+  margin-bottom: 3%;
+  margin-top: 5%;
+  color:black;
+  font-size:1.8vh;
+  font-weight: 900;
+  padding-left:12px;
+  background-color:white;
+  border: none;
+}
+.home .chart {
+  flex-basis: 100%;
+}
+select {
+  height: 5vh;
+  width: 59%;
+  margin: auto;
+  margin-bottom: 3%;
+  margin-top: 5%;
+  font-weight: 900;
+  padding-left:12px;
+  background-color:white;
+
+  font-size: 1.8vh;
+}
+form input:focus{
+
+border: 2.5px solid #FF5732;
+}
+h4 {
+  bottom: 4%;
+}
+.power {
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.value {
+  margin:  auto;
+  padding-left: 10%;
+  padding-top: 2%;
+  padding-right: 10%;
+}
+.home .value .op input{
+  width: 10vw;
+  height: 35px;
+  font-weight: 900;
+  text-align: center;
+  color: #fff;
+font-size: 19px;
+cursor: pointer;
+background: #675AFE;
+transition: 0.3s ease;
+text-align: center;
+margin-left: 25%;
+margin-top: 5vh;
+  
+  }
+  .home .value .op input:hover{
+background: #4534fe;
 }
