@@ -31,7 +31,7 @@ body   {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: #000000;
+  background: #58cdeb;
 }
 .navbar .max-width {
   display: flex;
@@ -58,9 +58,9 @@ body   {
 }
 .navbar .menu li a {
   display: block;
-  color: #fff;
-  font-size: 20px;
-  font-weight: 500;
+  color: black;
+  font-size: 25px;
+  font-weight: 400;
   transition: color 0.3s ease;
   padding-right: 2vw;
 }
@@ -76,16 +76,17 @@ body   {
 
 /* menu btn styling */
 .menu-btn {
-  color: #fff;
+  color: white;
   font-size: 23px;
   cursor: pointer;
   display: none;
+  text-decoration: none;
 }
 .scroll-up-btn {
   position: fixed;
   height: 45px;
   width: 42px;
-  background: #FF5732;
+  background: rgb(118, 118, 209);
   right: 30px;
   bottom: 10px;
   text-align: center;
@@ -209,18 +210,18 @@ div.footerCopy{
 .hero           {
   min-height: 500px;
   text-align: center;
-  background-image: url('../img/dark-wallpapers.jpg');
+  background-image: url('../img/rm380-10.jpg');
   background-size: cover;
   height: 100vh;
   
 }
 .hero-content   {
-  color: rgb(255, 255, 255);
+  color: rgb(158, 68, 231);
   padding-top: 25vh;
   font-weight: bolder;
 }
 .hero-content h1{
-  color: #ff0202;
+  color: rgb(63, 138, 236);
   font-weight: bolder;
   font-size: 9vh;
   margin: 0;
@@ -254,6 +255,9 @@ div.footerCopy{
 
 /* basic site sections */
 .site-section   {
+  background: url(../img/AI-background.jpg);
+  background-position:center;
+  background-size:cover;
   padding-bottom: 50px;
   padding-top: 50px;
 }
@@ -287,6 +291,7 @@ div.footerCopy{
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  align-items: center;
 }
 
 .feature-box   {
@@ -300,8 +305,9 @@ div.footerCopy{
   width: 80px;
 }
 .feature-box h5   {
+  justify-content: center;
   font-size: 20px;
-  color: rgb(253, 132, 51);
+  color: rgb(31, 25, 25);
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 2px;
