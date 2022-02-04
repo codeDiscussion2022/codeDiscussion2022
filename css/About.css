@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(../img/rm380-10.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing:border-box;
+    position: relative;
+}
+
+.btn {
+    margin-top: 10px;
+    display: inline-block;
+    background: linear-gradient(45deg,#96d7ec,#a0a0f7);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: gray;
+    box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content h1 {
+    font-size: 35px;
+    font-weight: 200;
+}
+
+.content p {
+    margin-top: 0;
+}
+
+.main-content {
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+}
+
+.main-img {
+    height: 50vh;
+    width: 300px;
+}
