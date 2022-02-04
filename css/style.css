@@ -31,7 +31,9 @@ body   {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: #58cdeb;
+  background: url(../img/rm380-10.jpg);
+  background-position: center;
+  background-size: cover;
 }
 .navbar .max-width {
   display: flex;
@@ -39,6 +41,7 @@ body   {
   justify-content: space-between;
 }
 .navbar .logo a {
+  padding-left: 20px;
   color: #fff;
   font-weight: 800;
 }
@@ -58,7 +61,7 @@ body   {
 }
 .navbar .menu li a {
   display: block;
-  color: black;
+  color: gray;
   font-size: 25px;
   font-weight: 400;
   transition: color 0.3s ease;
@@ -76,7 +79,7 @@ body   {
 
 /* menu btn styling */
 .menu-btn {
-  color: white;
+  color: black;
   font-size: 23px;
   cursor: pointer;
   display: none;
@@ -215,6 +218,11 @@ div.footerCopy{
   height: 100vh;
   
 }
+
+.news-letter-btn {
+  background: linear-gradient(45deg,rgb(182, 182, 241),rgb(208, 167, 241));
+}
+
 .hero-content   {
   color: rgb(158, 68, 231);
   padding-top: 25vh;
@@ -236,16 +244,15 @@ div.footerCopy{
   margin: auto;
 }
 
-.hero-content .flexdiv  a {
+.hero-content .flexdiv a {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  color: #FFF;
-  border: 3px solid #FFF;
-  border-radius: 3px;
+  color: black;
+  border-radius: 5px;
   text-decoration: none;
   font-size: 28px;
-  width: 10vw;
+  width: 100%;
   margin: 5px;
 }
 
@@ -307,7 +314,7 @@ div.footerCopy{
 .feature-box h5   {
   justify-content: center;
   font-size: 20px;
-  color: rgb(31, 25, 25);
+  color: gray;
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 2px;
@@ -461,10 +468,13 @@ div.footerCopy{
   .navbar .menu {
       position: fixed;
       height: 100vh;
-      width: 100%;
+      width: 50%;
+      border-radius: 1px solid gray;
       left: -100%;
       top: 0;
-      background: #000000;
+       background: url(../img/rm380-10.jpg);
+  background-position: center;
+  background-size: cover;
       text-align: center;
       padding-top: 80px;
       transition: all 0.3s ease;
@@ -480,12 +490,11 @@ div.footerCopy{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    color: #FFF;
-    border: 3px solid #FFF;
+    color: black;
     border-radius: 3px;
     text-decoration: none;
     font-size: 18px;
-    width: 20vw;
+    width: 100%;
     margin: 5px;
   }
   .navbar .menu li a {
@@ -550,7 +559,7 @@ div.footerCopy{
     margin-top: 0%;
   }
 .hero-content h1{
-  color: #ff0202;
+  color: #6060f3;
   font-weight: bolder;
   font-size: 5vh;
 }
@@ -559,12 +568,11 @@ div.footerCopy{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    color: #FFF;
-    border: 3px solid #FFF;
+    color: black;
     border-radius: 3px;
     text-decoration: none;
     font-size: 18px;
-    width: 20vw;
+    width: 100%;
     margin: 5px;
   }
 
